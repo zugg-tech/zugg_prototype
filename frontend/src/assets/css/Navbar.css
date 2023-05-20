@@ -1,0 +1,20 @@
+
+.Logo{
+    font-family: 'Asap', sans-serif !important;
+    font-size: xx-large !important;
+    font-weight: 1000 !important;
+    
+    
+}
+.Button{
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+Button:hover{
+    color: '#EF0078';
+}
+
+
+

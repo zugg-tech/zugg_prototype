@@ -1,0 +1,296 @@
+.TopSection {
+  background: linear-gradient(
+    180deg,
+    rgba(239, 0, 120, 0.003) 0%,
+    rgba(239, 0, 120, 0.085349) 87.96%,
+    rgba(239, 0, 120, 0.1) 100%
+  );
+  height: 25rem;
+  width: 100%;
+}
+.Heroimage{
+ margin-top: -5.2rem !important;
+}
+.Tagline {
+  background: linear-gradient(90deg, #880e4f 1.23%, #c51162 92.19%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  padding-top: rem;
+
+  width: 120%;
+  height: 10.5rem;
+  margin-left: 0;
+  padding-left: 8.8rem;
+
+  font-family: "Open Sans", sans-serif !important;
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 2.5rem !important;
+  line-height: 54px;
+}
+.Desc {
+  font-family: "Open Sans", sans-serif !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.1rem !important;
+  line-height: 25px;
+
+  color: #9e9e9e;
+  padding-left: 8.8rem;
+  width: 90%;
+  margin-top: -1rem !important;
+}
+.Container {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+  width: 100%;
+}
+
+.Startcampaign {
+  /* padding-left: 11.2rem !important; */
+  /* padding-top: 3rem !important; */
+  background-color: #ef0078;
+  margin-top: 3rem !important;
+  width: 14rem;
+  height: 3.5rem;
+  margin-left: 8.8rem;
+  border-radius: 0.5rem;
+}
+
+.Buttontext {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: 700 !important;
+  color: white;
+  padding-top: 0.6rem;
+}
+.Container2 {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 5px;
+}
+
+.Campaignline {
+  font-size: 0.85rem !important;
+  text-align: left;
+  color: #757575;
+  font-family: "Open Sans" !important;
+  margin-left: 0;
+  padding-top: 1rem !important;
+  /* font-size: 14px !important; */
+  width: 15rem;
+}
+
+.Bold {
+  font-weight: bolder !important;
+}
+
+.About {
+  font-family: "Open Sans", sans-serif !important;
+  font-weight: bolder !important;
+  padding-top: 2rem;
+  font-size: 2.5rem !important;
+}
+
+.Container3 {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+}
+
+.LeftSection {
+  margin-left: 2rem;
+  padding-left: 3rem;
+  text-align: left;
+}
+
+.Container4 {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 2rem;
+}
+
+.LowerSection {
+  background: linear-gradient(
+    360deg,
+    rgba(239, 0, 120, 0.1) 0.51%,
+    rgba(239, 0, 120, 0.085349) 0.52%,
+    rgba(239, 0, 120, 0.003) 50%,
+    rgba(239, 0, 120, 0.1) 100%
+  );
+  height: 35rem;
+}
+
+.TopLeft {
+  margin-left: 0;
+  height: 100% !important;
+}
+
+.ContainerContactUs {
+  display: grid;
+  align-items: left;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 2rem;
+}
+
+@media screen and (max-width: 500px) {
+  .ContainerContactUs {
+    display: flex;
+  }
+  .Container4 {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
+  .WpButton {
+    margin-top: 1rem !important;
+    margin-left: -1.2rem !important;
+  }
+  .AllLines {
+    text-align: center !important;
+  }
+  .LineA {
+    margin-right: 1.4rem !important;
+    margin-bottom: 1rem;
+    font-size: 1.2rem !important;
+    text-align: center !important;
+  }
+  .LineB {
+    margin-right: 1.4rem !important;
+  }
+  .StayAhead {
+    margin-top: 2rem !important;
+    width: 100% !important;
+  }
+  .LowerSection {
+    width: 100% !important;
+    height: 25rem;
+  }
+  .LadyImage {
+    display: none;
+  }
+  .GentImage {
+    display: none;
+  }
+
+  .Container3 {
+    display: block;
+  }
+  .IntelligentRecom {
+    font-size: 1.5rem !important;
+  }
+  .AIsubSec {
+    margin-left: 2rem !important;
+  }
+  .UsingOur {
+    font-size: 0.9rem !important;
+  }
+  .AiImg {
+    height: 40rem;
+    width: 32rem;
+    margin-left: -8rem !important;
+  }
+  .RealTime {
+    font-size: 1.5rem !important;
+  }
+  .Mid2 {
+    margin-left: 2rem;
+  }
+  .MonitorYour {
+    font-size: 0.9rem !important;
+    width: 90% !important;
+  }
+  .Likes {
+    font-size: 1.3rem !important;
+    margin-left: 1rem;
+    font-weight: 700 !important;
+  }
+  .Mid2Img {
+    margin-left: -4rem !important;
+    width: 25rem !important;
+  }
+  .TenLakh {
+    font-size: 1.5rem !important;
+  }
+  .LeftSection {
+    margin-left: 2rem !important;
+    padding-left: 0rem !important;
+  }
+  .AreYou {
+    font-size: 0.9rem !important;
+    width: 93% !important;
+  }
+  .MidImg {
+    height: 40rem !important;
+    width: 25rem;
+    margin-left: -3rem !important;
+    margin-top: -8rem !important;
+  }
+  .WhyChoose {
+    font-size: 1.7rem !important;
+  }
+  .About {
+    margin-bottom: 2rem !important;
+  }
+  .StartCamp {
+    margin-left: 0.7rem !important;
+  }
+  .TwoButtons {
+    display: flex;
+  }
+  .TopSection {
+    width: 100%;
+  }
+  .Heroimage {
+    display: none;
+  }
+  .Tagline{
+    width: 140%;
+    
+    padding-left: 0rem;
+    margin-left: 2rem !important;
+    font-size: 1.6rem !important;
+  }
+  .Desc{
+    padding-left: 0rem;
+    margin-left: 2rem !important;
+    width: 130%;
+    font-size: 0.8rem !important;
+  }
+  .Startcampaign{
+    width: 70%;
+    height: 40%;
+    margin-left: 2rem;
+
+  }
+  .Buttontext{
+    font-size: 75% !important;
+    padding-top:0.3rem ;
+  }
+  .Campaignline{
+    font-size: 0.6rem !important;
+    width: 90%;
+    padding-top: 0rem !important;
+    margin-top: -1rem !important;
+  }
+  .Container2{
+    display: block;
+    
+  }
+  .TopLeft{
+    width: 100% !important;
+  }
+  .Container{
+    width: 100% !important;
+  }
+  .TopSection{
+    width: 100% !important;
+  }
+}
