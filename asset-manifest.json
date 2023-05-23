@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/zugg_prototype/static/css/main.65756bf5.css",
+    "main.js": "/zugg_prototype/static/js/main.1cb8389e.js",
+    "static/js/787.a4a531be.chunk.js": "/zugg_prototype/static/js/787.a4a531be.chunk.js",
+    "static/media/hero_img.png": "/zugg_prototype/static/media/hero_img.95612c527aff3794ecb9.png",
+    "static/media/Group 19.png": "/zugg_prototype/static/media/Group 19.f993e2a4111ce0389590.png",
+    "static/media/Group 20.png": "/zugg_prototype/static/media/Group 20.d1263ea2ee5b262a3d8b.png",
+    "static/media/Group 21.png": "/zugg_prototype/static/media/Group 21.f01662e4bfc7d75dcb15.png",
+    "static/media/gents.png": "/zugg_prototype/static/media/gents.990dc192f0fa8e643ae2.png",
+    "static/media/fa-solid-900.ttf": "/zugg_prototype/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/zugg_prototype/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/zugg_prototype/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/zugg_prototype/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/ladies.png": "/zugg_prototype/static/media/ladies.e421196369948729c68d.png",
+    "static/media/fa-regular-400.ttf": "/zugg_prototype/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/zugg_prototype/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/formLogo.png": "/zugg_prototype/static/media/formLogo.81b863249d80c6e2e6b2.png",
+    "static/media/fa-v4compatibility.ttf": "/zugg_prototype/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/zugg_prototype/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/zugg_prototype/index.html",
+    "main.65756bf5.css.map": "/zugg_prototype/static/css/main.65756bf5.css.map",
+    "main.1cb8389e.js.map": "/zugg_prototype/static/js/main.1cb8389e.js.map",
+    "787.a4a531be.chunk.js.map": "/zugg_prototype/static/js/787.a4a531be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65756bf5.css",
+    "static/js/main.1cb8389e.js"
+  ]
+}
