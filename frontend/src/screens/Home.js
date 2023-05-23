@@ -206,6 +206,7 @@ export default function () {
                 campaigns are delivering the desired results and drive
                 meaningful business impact.
               </span>
+              <div style={{textAlign:"center"}}>
               <span
                 className="Likes"
                 style={{
@@ -219,6 +220,7 @@ export default function () {
                 Likes 👍 &nbsp;&nbsp;&nbsp;&nbsp;Reach 🗣️
                 &nbsp;&nbsp;&nbsp;&nbsp;Engagement 🤝{" "}
               </span>
+              </div>
               <span style={{ display: "inline-block", marginTop: "1rem" }}>
                 By tracking these metrics, you can better understand the impact
                 of your influencer marketing campaigns and optimize your
