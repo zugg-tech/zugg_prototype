@@ -134,7 +134,7 @@ export default function () {
                 Leverage our well-segmented network of quality influencers among
                 various categories:
               </span>
-              <span style={{ display: "inline-block", marginTop: "1rem" }}>
+              <span style={{ display: "inline-block", marginTop: "1rem", textAlign:'center' }}>
                 <strong>
                   Fashion 👠 &nbsp;&nbsp; &nbsp; &nbsp;Beauty 💅🏻️
                   &nbsp;&nbsp;&nbsp;&nbsp; Fitness 🏋️‍♀️ &nbsp;&nbsp;&nbsp;&nbsp;
@@ -372,7 +372,7 @@ export default function () {
         </div>
       </div>
 
-      <Footer />
+      <Footer open={open} handleOpen={handleOpen} />
     </div>
   );
 }

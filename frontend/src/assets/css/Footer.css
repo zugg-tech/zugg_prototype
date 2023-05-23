@@ -1,0 +1,14 @@
+.Zugg{
+    font-family: 'Open Sans',sans-serif !important;
+    color: '#EF0078' !important;
+    font-size: 2rem !important;
+    font-weight: 700 !important;
+    margin-top: -1rem !important;
+    
+}
+
+@media screen and (max-width:600px) {
+    .Zugg{
+        margin-top: -3rem !important;
+    }
+}

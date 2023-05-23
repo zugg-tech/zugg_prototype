@@ -18,7 +18,7 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 
-  padding-top: rem;
+  
 
   width: 120%;
   height: 10.5rem;
@@ -140,7 +140,7 @@
   column-gap: 2rem;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
   .ContainerContactUs {
     display: flex;
   }
@@ -152,6 +152,7 @@
   .WpButton {
     margin-top: 1rem !important;
     margin-left: -1.2rem !important;
+    
   }
   .AllLines {
     text-align: center !important;
@@ -185,27 +186,31 @@
   }
   .IntelligentRecom {
     font-size: 1.5rem !important;
+    
   }
   .AIsubSec {
-    margin-left: 2rem !important;
+    margin-left: 1rem !important;
   }
   .UsingOur {
     font-size: 0.9rem !important;
+    width: 96%;
   }
   .AiImg {
-    height: 40rem;
-    width: 32rem;
-    margin-left: -8rem !important;
+    height: 70% !important;
+    width: 100%;
+    margin-left: -2rem !important;
+    margin-bottom: 4rem;
+    margin-top: 0rem;
   }
   .RealTime {
     font-size: 1.5rem !important;
   }
   .Mid2 {
-    margin-left: 2rem;
+    margin-left: 1rem;
   }
   .MonitorYour {
     font-size: 0.9rem !important;
-    width: 90% !important;
+    width: 96% !important;
   }
   .Likes {
     font-size: 1.3rem !important;
@@ -213,25 +218,29 @@
     font-weight: 700 !important;
   }
   .Mid2Img {
-    margin-left: -4rem !important;
-    width: 25rem !important;
+    margin-left: -0rem !important;
+    width: 100% !important;
+    height: 80% !important;
+    margin-top: 1rem;
+    margin-bottom: -2rem;
   }
   .TenLakh {
     font-size: 1.5rem !important;
   }
   .LeftSection {
-    margin-left: 2rem !important;
+    margin-left: 1rem !important;
     padding-left: 0rem !important;
   }
   .AreYou {
     font-size: 0.9rem !important;
-    width: 93% !important;
+    width: 96% !important;
   }
   .MidImg {
-    height: 40rem !important;
-    width: 25rem;
-    margin-left: -3rem !important;
-    margin-top: -8rem !important;
+    height: 100% !important;
+    width: 100%;
+    margin-left: -1rem !important;
+    margin-top: -2.5rem !important;
+    margin-bottom: 3.5rem;
   }
   .WhyChoose {
     font-size: 1.7rem !important;
@@ -247,38 +256,44 @@
   }
   .TopSection {
     width: 100%;
+    height: 100%;
   }
   .Heroimage {
     display: none;
   }
   .Tagline{
-    width: 140%;
-    
+    width: 170%;
+    margin-top: -1rem !important;
     padding-left: 0rem;
-    margin-left: 2rem !important;
+    margin-left: 1rem !important;
     font-size: 1.6rem !important;
   }
   .Desc{
     padding-left: 0rem;
-    margin-left: 2rem !important;
+    margin-left: 1rem !important;
     width: 130%;
     font-size: 0.8rem !important;
+    margin-top: -1.5rem !important;
   }
   .Startcampaign{
-    width: 70%;
+    width: 80%;
     height: 40%;
-    margin-left: 2rem;
+    margin-left: 1rem;
+    margin-top: 1rem !important;
 
   }
   .Buttontext{
     font-size: 75% !important;
-    padding-top:0.3rem ;
+    padding-top:0.2rem ;
+    padding-bottom: 0.1rem;
   }
   .Campaignline{
     font-size: 0.6rem !important;
-    width: 90%;
+    width: 130%;
     padding-top: 0rem !important;
     margin-top: -1rem !important;
+    margin-left: -0.9rem !important;
+    margin-bottom: 2rem !important;
   }
   .Container2{
     display: block;
@@ -290,7 +305,5 @@
   .Container{
     width: 100% !important;
   }
-  .TopSection{
-    width: 100% !important;
-  }
+  
 }

@@ -16,5 +16,20 @@ Button:hover{
     color: '#EF0078';
 }
 
+.Zugg{
+    font-family: 'Open Sans',sans-serif !important;
+    color: '#EF0078' !important;
+    font-size: 1.5rem !important;
+    font-weight: 700 !important;
+}
+
+@media screen and (max-width:600px) {
+    .Logo{
+        font-size: 1.5rem !important;
+        margin-left: 0.5rem !important;
+        margin-top: 1rem !important;
+    }
+}
+
 
 
